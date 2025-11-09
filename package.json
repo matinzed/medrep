@@ -1,6 +1,6 @@
 {
-  "name": "medrep",
-  "version": "1.0.0",
+  "name": "medrep-onefile",
+  "version": "2.0.1",
   "private": true,
   "type": "commonjs",
   "engines": { "node": ">=18" },
